@@ -17,7 +17,7 @@ Panel łączy się przez MySQL z bazą danych serwera i pobiera z niej dane. Wsz
 
 # Panel Admina - Funkcje
 
-W panelu admina można z poziomu przeglądarki przeglądać logi (dostarczę skrypt który bedzie je wysyłał później), zdejmować/nadawać kary oraz bany, przeglądać historię graczy.
+W panelu admina można z poziomu przeglądarki przeglądać logi, zdejmować/nadawać kary oraz bany, przeglądać historię graczy.
 
 # Panel Gracza - Funkcje
 
