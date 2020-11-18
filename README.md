@@ -8,7 +8,7 @@ Hejka, cześć z Was może mnie kojarzyć jako Break. lub Marek. Działając na 
 Są to odpowiednio panel www admina i gracza pod XyzzyRP (Jeżeli AFX nie opublikuje to również będą pasować do zasobów z Play Your Life)
 Panele są troszeczkę już mocno zmienione (przynajmniej mi się tak wydaje) względem wersji początkowej - Panelu z zasobu https://github.com/lpiob/MTA-XyzzyRP
 
-Głównym wymogiem jest własnie baza danych z XyzzyRP i prosty serwer www.
+Głównym wymogiem jest własnie baza danych z XyzzyRP i prosty serwer www
 
 # Działanie
 
