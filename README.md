@@ -13,7 +13,7 @@ Głównym wymogiem jest własnie baza danych z XyzzyRP i prosty serwer www.
 # Działanie
 
 Panel łączy się przez MySQL z bazą danych serwera i pobiera z niej dane. Wszystko opiera się na strukturze dostępu, która przedstawia się tak. Oczywiście mowa o panelu admina - do panelu gracza może zalogować się każdy gracz.
-![poziomy uprawnień](poziomy uprawnień.png)
+![levels](levels.png)
 
 # Panel Admina - Funkcje
 
